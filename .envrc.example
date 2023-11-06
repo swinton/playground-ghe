@@ -1,0 +1,8 @@
+# GitHub personal access token
+export GITHUB_TOKEN=
+
+# Base URL to GitHub Enterprise Server instance
+export GITHUB_BASE_URL=
+
+# Default owner of new repos
+export GITHUB_OWNER=

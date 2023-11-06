@@ -1,5 +1,10 @@
 ## Usage
 
+### Create .envrc from .envrc.example
+```shell
+cp .envrc.example .envrc
+```
+
 ### Create orgs
 ```shell
 terraform init
